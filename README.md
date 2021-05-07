@@ -75,6 +75,9 @@ Licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 #### Thanks
 
+coucou2
+
+
 Creators:
 - [Gaëtan Duchaussois](https://twitter.com/gduchaussois)
 - [Théophile Helleboid](https://twitter.com/chtitux)
