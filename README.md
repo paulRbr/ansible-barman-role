@@ -21,6 +21,8 @@ Recommended related roles:
 
 #### Compatibility matrix
 
+coucou
+
 This table lists the tested version of OS/Barman couples.
 
 | Distribution / PostgreSQL | 2.x |
